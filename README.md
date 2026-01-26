@@ -1,6 +1,9 @@
 # Hello
 My name is String, welcome to my GitHub profile.
 
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/1303562708758695937?showDisplayName=true&borderRadius=0)](https://discord.com/users/1303562708758695937)
+
 ## About Me
 ### Software Experience
 - Coding since the age of 11
