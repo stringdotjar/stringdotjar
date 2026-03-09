@@ -6,7 +6,7 @@ My name is String, welcome to my GitHub profile.
 
 ## About Me
 ### Software Experience
-- Started to learn coding at around 14 years old
+- Started to learn programming at around 14 years old
 - Self taught for about 3 years
 - IDEs are IntelliJ IDEA (for Java specifically), VS Code and Cursor (for Haxe and everything else)
 - I can learn a new language very quickly (I just need documentation)
