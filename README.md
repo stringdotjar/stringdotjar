@@ -1,37 +1,43 @@
-# Hello
-My name is String, welcome to my GitHub profile.
+# Hi there! :D
+My name is String, welcome to my GitHub profile!
 
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1303562708758695937?showDisplayName=true&borderRadius=0)](https://discord.com/users/1303562708758695937)
 
-## About Me
-### Software Experience
-- Started to learn programming at around 14 years old
-- Self taught for about 3 years
-- IDEs are IntelliJ IDEA (for Java specifically), VS Code and Cursor (for Haxe and everything else)
-- I can learn a new language very quickly (I just need documentation)
-- I am a programming polyglot
-- I know and/or am familiar with 10+ languages
-    - Java 🌟🌟🌟🌟🌟 (personal favorite)
-    - HaxeFlixel 🌟🌟🌟🌟🌟
-    - Roblox Luau 🌟🌟🌟🌟🌟
-    - C# ⭐⭐⭐⭐ (Unity)
-    - Python ⭐⭐⭐⭐
-    - HTML ⭐⭐⭐
-    - CSS ⭐⭐
-    - JavaScript ⭐⭐
-    - PHP ⭐⭐
-    - C++ ⭐
-    - Anything else that's required of me lol
+## Skills
+
+Below are either languages, frameworks, systems, editors or operating systems that I am very familiar with or I have used in one of my projects before.
+
+### Languages & Frameworks
+
+[![My Languages](https://skillicons.dev/icons?i=java,kotlin,haxe,haxeflixel,html,css,javascript,typescript,react,nodejs,wasm,c,python,lua&perline=4)](https://skillicons.dev)
+
+### Systems
+
+[![My Systems](https://skillicons.dev/icons?i=git,github,gradle,maven,npm&perline=8)](https://skillicons.dev)
+
+### Editors
+
+[![My Editors](https://skillicons.dev/icons?i=idea,webstorm,vscode,robloxstudio&perline=8)](https://skillicons.dev)
+
+### Operating Systems
+
+[![My Languages](https://skillicons.dev/icons?i=windows,linux,mint&perline=8)](https://skillicons.dev)
+
+Honestly, I'll learn to use anything, as long as it's the best tool for the job.
+
+## AI Tools
+
+I've dabbled with quite a few, actually. I've used Copilot (spoiler: I do NOT like it), Cursor and Claude Code, but I have been using Claude Code much more recently, as it feels more like an actual science partner compared to the other tools I've encountered and used.
+
 ### Spare Time & Hobbies
-- I enjoy making tools to empower people to be creative
-    - Currently working on a port of the entire HaxeFlixel library into Java (build on top of libGDX) called FlixelGDX
-    - Also working on a professional-grade modding environment/game engine for FNF called Polyverse (which uses FlixelGDX)
-- I like Friday Night Funkin' and rhythm games in general
-    - Very experienced with FNF's code (I can learn any engine and its architecture you throw at me in a very short amount of time)
+
+- I enjoy making tools to empower people to be creative.
+- I like to dabble with any language or system that sparks my interest, whether that would be for computers or something completely different.
+- I am obsessed with teaching things to people, especially computer science.
+- With the (very little) freetime I have, I enjoy playing games, particularly rhythm games.
 
 # Contacts
-If you are contacting me professionally, then please use my email
-(linked in my profile's connections).
+If you are contacting me professionally, then please use my email (linked in my profile's connections). Just note that I don't check it a lot, so I might be slow to respond there!
 
 If you want to contact me fast and directly, use my Discord (`@publicstaticstring`).
