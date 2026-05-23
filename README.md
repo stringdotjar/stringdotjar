@@ -1,4 +1,4 @@
-# Hi there! :D
+# Hi there!
 My name is String, welcome to my GitHub profile!
 
 ## Discord
@@ -38,6 +38,6 @@ I've dabbled with quite a few, actually. I've used Copilot (spoiler: I do NOT li
 - With the (very little) freetime I have, I enjoy playing games, particularly rhythm games.
 
 # Contacts
-If you are contacting me professionally, then please use my email (linked in my profile's connections). Just note that I don't check it a lot, so I might be slow to respond there!
+If you are contacting me professionally, then please use my email (linked in my profile's connections).
 
-If you want to contact me fast and directly, use my Discord (`@publicstaticstring`).
+If you want to contact me fast and/or casually, use my Discord (`@publicstaticstring`).
