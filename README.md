@@ -28,16 +28,16 @@ Honestly, I'll learn to use anything, as long as it's the best tool for the job.
 
 ## AI Tools
 
-I've dabbled with quite a few, actually. I've used Copilot (spoiler: I do NOT like it), Cursor and Claude Code, but I have been using Claude Code much more recently, as it feels more like an actual science partner compared to the other tools I've encountered and used.
+I've dabbled with quite a few, actually. I've used Copilot, Cursor and Claude Code, but I have been using Claude Code much more recently, as it's more of an actual, collaborative science partner compared to the other tools I've encountered and used.
 
 ### Spare Time & Hobbies
 
 - I enjoy making tools to empower people to be creative.
-- I like to dabble with any language or system that sparks my interest, whether that would be for computers or something completely different.
-- I am obsessed with teaching things to people, especially computer science.
-- With the (very little) freetime I have, I enjoy playing games, particularly rhythm games.
+- I like to dabble with any language, system or subject that sparks my interest, whether that would be for computers or something completely different.
+- I deeply enjoy teaching things to people, especially computer science.
+- With the (very little) freetime I have, I enjoy playing games, particularly rhythm games like Friday Night Funkin'.
 
 # Contacts
-If you are contacting me professionally, then please use my email (linked in my profile's connections).
+If you are contacting me professionally, then please use my email (linked in my profile's connections!).
 
 If you want to contact me fast and/or casually, use my Discord (`@publicstaticstring`).
