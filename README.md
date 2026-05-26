@@ -22,13 +22,13 @@ Below are either languages, frameworks, systems, editors or operating systems th
 
 ### Operating Systems
 
-[![My Languages](https://skillicons.dev/icons?i=windows,linux,mint&perline=8)](https://skillicons.dev)
+[![My Operating Systems](https://skillicons.dev/icons?i=windows,linux,mint&perline=8)](https://skillicons.dev)
 
 Honestly, I'll learn to use anything, as long as it's the best tool for the job.
 
 ## AI Tools
 
-I've dabbled with quite a few, actually. I've used Copilot, Cursor and Claude Code, but I have been using Claude Code much more recently, as it's more of an actual, collaborative science partner compared to the other tools I've encountered and used.
+I've dabbled with quite a few, actually. I've used Copilot, Cursor and Claude Code, but I have been using Claude Code much more recently, as it's more of an actual, collaborative science partner compared to the other tools I've encountered and used (although I will use any tool that's required to complete a task, AI or not).
 
 ### Spare Time & Hobbies
 
